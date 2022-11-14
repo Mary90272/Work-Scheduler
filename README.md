@@ -16,7 +16,7 @@ Also in present color you can see "current time".
 N/A
 
 # Usage
-images 
+![alt text](assets/images/Screenshot.png)
 
 # Credits
 N/A
