@@ -21,6 +21,7 @@ $("#currentDay").text(WEEKDAYS[headerTime.day()] + ' ' + headerTime.format('MMMM
 //Standart working hour
 var lengthHour =9;
 // loop for whole section  
+// create whole section here
 for (var i = 0; i < lengthHour; i++ ){
     var columnEvent = $("<div>");
     columnEvent.addClass("row  time-block");
